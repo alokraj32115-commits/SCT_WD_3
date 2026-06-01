@@ -2,6 +2,7 @@ Project Title
 QuizVerse: Design and Development of an Interactive Web-Based Quiz Application Using HTML, CSS, and JavaScript
 QuizVerse
 QuizVerse is a modern, interactive web-based quiz application designed to help users test their knowledge, improve learning, and track performance through engaging quizzes. Built with HTML, CSS, and JavaScript, the application features a sleek user interface, category-based quizzes, and real-time score tracking.
+
 Features
 . 🧠 Interactive multiple-choice quizzes
 . 🎯 Real-time score calculation
