@@ -69,7 +69,7 @@ Future Enhancements
 Author Alok Raj
 killcraft Technology internship Task 03-quizverse(SCT_WD_3) 
 Email:alokraj32115@gmail.com
-GitHub:https://github.com/alokraj32115-commits/SCT_WD_3
+GitHub:https://github.com/alokraj32115-commits/SCT_WD_3.git
 Live project:http://github.com/alokraj32115-commit/SCT_WD_3.git
 Linkedin:www.linkedin.com/in/alok-raj-7bb755408
 License Thi project i creatd for educational and internship purposes under the Skillcraft Technology internship program
