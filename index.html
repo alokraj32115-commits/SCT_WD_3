@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>QuizVerse</title>
+
+  <link rel="stylesheet" href="Alok.css">
+
+  <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+/>
+
+</head>
+<body>
+
+<div class="container">
+
+  <!-- LEFT SIDE -->
+
+  <div class="left-panel">
+
+    <div class="logo">
+      <span>Q</span> QuizVerse
+    </div>
+
+    <div class="hero-content">
+
+      <h1>
+        Test Your <br>
+        <span>Knowledge</span>
+      </h1>
+
+      <p>
+        Challenge yourself with beautiful interactive quizzes
+        and track your performance.
+      </p>
+
+      <button class="start-btn">
+        Start Quiz
+        <i class="fa-solid fa-arrow-right"></i>
+      </button>
+
+      <button class="category-btn">
+        Explore Categories
+      </button>
+
+    </div>
+
+    <div class="stats">
+
+      <div class="card">
+        <i class="fa-solid fa-trophy"></i>
+        <h2>12</h2>
+        <p>Quiz Played</p>
+      </div>
+
+      <div class="card">
+        <i class="fa-solid fa-bullseye"></i>
+        <h2>85%</h2>
+        <p>Accuracy</p>
+      </div>
+
+      <div class="card">
+        <i class="fa-solid fa-fire"></i>
+        <h2>7</h2>
+        <p>Day Streak</p>
+      </div>
+
+    </div>
+
+  </div>
+
+  <!-- RIGHT SIDE -->
+
+  <div class="quiz-panel">
+
+    <div class="top-bar">
+
+      <div class="quiz-title">
+        Science Quiz
+      </div>
+
+      <div class="timer">
+        <i class="fa-solid fa-clock"></i>
+        <span id="time">15</span>s
+      </div>
+
+    </div>
+
+    <div class="progress-bar">
+      <div class="progress-fill"></div>
+    </div>
+
+    <div class="question-box">
+
+      <div class="question-type">
+        Single Select
+      </div>
+
+      <h2 id="question">
+        Loading Question...
+      </h2>
+
+      <div class="options" id="options">
+
+      </div>
+
+      <div class="bottom-buttons">
+
+        <button class="prev-btn">
+          Previous
+        </button>
+
+        <button class="next-btn" id="nextBtn">
+          Next
+        </button>
+
+      </div>
+
+    </div>
+
+    <div class="question-number">
+      Question
+      <span id="current">1</span> /
+      <span id="total">5</span>
+    </div>
+
+  </div>
+
+</div>
+
+<script src="Alok.js"></script>
+
+</body>
+</html>
