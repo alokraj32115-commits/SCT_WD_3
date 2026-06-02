@@ -88,8 +88,8 @@ User authentication and score saving
 Alok Raj
 Skillcraft Technology inernship task 03-Quiz verse appliction (SCT_WD_3)
 Email: alokraj32115@gmail.com
-GitHub:https://github.com/alokraj32115-commit/SCT_WD_3.
-Live project:https://github.com/alokraj32115-commit/SCT_WD_3.git
+GitHub:https://github.com/alokraj32115-commits/SCT_WD_3
+Live project:
 Linkedin:www.linkedin.com/in/alok-raj-7bb755408
 
 Internship Project
