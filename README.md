@@ -1,17 +1,12 @@
-
-
-quiz verse readme
-
-🎯 QuizVerse - Interactive Quiz Game
-📌 Project Title
+#📌 Project Title
 QuizVerse - Interactive Quiz Game
 
-📖 Project Overview
+#📖 Project Overview
 QuizVerse is a fun and interactive web-based quiz application developed using HTML, CSS, and JavaScript. The application allows users to test their knowledge through multiple-choice questions, receive instant feedback, and view their final score at the end of the quiz.
 
 This project focuses on creating an engaging user experience with a clean interface, dynamic question loading, score tracking, and responsive design.
 
-✨ Features
+# ✨ Features
 📝 Multiple-choice quiz questions
 
 ⚡ Instant answer validation
@@ -26,14 +21,14 @@ This project focuses on creating an engaging user experience with a clean interf
 
 🎨 Modern and attractive user interface
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 HTML5 – Structure of the application
 
 CSS3 – Styling and responsive design
 
 JavaScript (ES6) – Quiz logic and interactivity
 
-📂 Project Structure
+# 📂 Project Structure
 QuizVerse/
 │
 ├── index.html
@@ -73,7 +68,7 @@ View correct/incorrect responses
 
 Check final results instantly
 
-📈 Future Enhancements
+# 📈 Future Enhancements
 Timer for each question
 
 Difficulty levels
@@ -81,10 +76,9 @@ Difficulty levels
 Category-based quizzes
 
 Leaderboard system
-
 User authentication and score saving
 
-👨‍💻 Author
+# 👨‍💻 Author
 Alok Raj
 Skillcraft Technology inernship task 03-Quizverse(SCT_WD_3)
 Email: alokraj32115@gmail.com
@@ -92,8 +86,6 @@ GitHub:https://github.com/alokraj32115-commits/SCT_WD_3
 Live project:https://github.com/alokraj32115-commits/SCT_WD_3.git
 Linkedin:www.linkedin.com/in/alok-raj-7bb755408
 
-Internship Project
-Completed as part of the SkillCraft Technology Web Development Internship.
 
 
 
