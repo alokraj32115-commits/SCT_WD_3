@@ -87,7 +87,7 @@ Alok Raj
 Skillcraft Technology inernship task 03-Quizverse(SCT_WD_3)
 Email: alokraj32115@gmail.com
 GitHub:https://github.com/alokraj32115-commits/SCT_WD_3
-Live project:https://https://alokraj32115-commits.github.io/SCT_WD_3/
+Live project:https://alokraj32115-commits.github.io/SCT_WD_3/
 Linkedin:www.linkedin.com/in/alok-raj-7bb755408
 
 
